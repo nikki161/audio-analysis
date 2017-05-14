@@ -34,6 +34,8 @@ for (int i = 0 ; i < 10; i++)
 }
 ```
 
+----------
+
 ## Список всех заданий
 1. ЯП версия 1
 2. ЯП версия 2
@@ -77,17 +79,6 @@ for (int i = 0 ; i < 10; i++)
 | OE            | Ostapenko A.  | Ermolaev D.    |
 | AE            | Aliev M.      | Ermolinsky A.  |
 
-##Зависимости заданий
-```flow
-op1=>operation: Задача №1-2
-op2=>operation: Задача №3
-op3=>operation: Задача №4
-op4=>operation: Задача №5
-op5=>operation: Задача №6-7-8
-op6=>operation: Задача №9
-op7=>operation: Задача №10
-op1->op2->op3->op4->op5->op6->op7
-```
 
 ## Полезные ссылки
 * [Справка по markdown](https://guides.github.com/features/mastering-markdown/)
